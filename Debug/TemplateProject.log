@@ -1,0 +1,9 @@
+﻿cl : línea de comandos warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  main.cpp
+  Cola.cpp
+C:\Users\anton\Downloads\GLS_1\Cola.cpp(10,28): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\anton\Downloads\GLS_1\Cola.cpp(13,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\anton\Downloads\GLS_1\Cola.cpp(22,29): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\anton\Downloads\GLS_1\Cola.cpp(24,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+  Generando código...
+  TemplateProject.vcxproj -> C:\Users\anton\Downloads\GLS_1\Debug\TemplateProject.exe
